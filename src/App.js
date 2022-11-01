@@ -13,7 +13,7 @@ import {
 function App(props) {
 
 const[progress,setProgress]=useState(0)
-const[mode,setMode]=useState("light")
+const[mode,setMode]=useState(hjhh"light")
 const[btn,setBtn]=useState("Enable Dark mode")
 
 
